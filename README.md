@@ -29,4 +29,4 @@ This project aims to **predict a person’s blood group from their fingerprint i
 - The dataset consists of fingerprint images labeled with corresponding blood groups.  
 - Images are preprocessed before training (noise removal, resizing, normalization).
 
-> 📌 *If you used a public dataset, add the link here:*  
+
